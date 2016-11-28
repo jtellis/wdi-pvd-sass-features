@@ -12,7 +12,7 @@ Mixins are defined with the @mixin directive. It’s followed by the name of the
 }
 ```
 
-## Using a Mixins
+## Using a Mixin
 Mixins are included in the document with the @include directive. This takes the name of a mixin and optionally arguments to pass to it, and includes the styles defined by that mixin into the current rule.
 ```scss
 body {
